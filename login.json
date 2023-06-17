@@ -5,7 +5,7 @@
     "version": "1.0.0"
   },
   "paths": {
-    "/api/v1/login": {
+    "http://138.2.93.197:4545/api/v1/login": {
       "post": {
         "summary": "Mock API login",
         "consumes": [
