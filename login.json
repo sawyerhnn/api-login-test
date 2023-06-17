@@ -4,7 +4,7 @@
     "title": "Mountebank API",
     "version": "1.0.0"
   },
-  "host": "138.2.93.197:2525",
+  "host": "138.2.93.197:4545",
   "schemes": [
     "http"
   ],
