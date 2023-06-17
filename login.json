@@ -10,7 +10,7 @@
   ],
   "basePath": "/api/v1/",
   "paths": {
-    "login": {
+    "/login": {
       "post": {
         "summary": "Mock API login",
         "consumes": [
