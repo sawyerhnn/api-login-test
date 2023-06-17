@@ -4,8 +4,13 @@
     "title": "Mountebank API",
     "version": "1.0.0"
   },
+  "host": "138.2.93.197:2525",
+  "schemes": [
+    "http"
+  ],
+  "basePath": "/api/v1/",
   "paths": {
-    "http://138.2.93.197:4545/api/v1/login": {
+    "login": {
       "post": {
         "summary": "Mock API login",
         "consumes": [
